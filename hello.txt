@@ -6,4 +6,7 @@ Spring Boot
 Java
 Micro Services
 
+JSF
+Mybatis
+
 Thank you :)
